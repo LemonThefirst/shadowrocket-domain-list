@@ -1,1 +1,1 @@
-# shadowrocket-bybit-rules
+# shadowrocket-domain-list
